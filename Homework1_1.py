@@ -49,6 +49,8 @@ def data_generator(input_data, target_data, minibatch_size):
         # Yield the corresponding input and target data for the mini-batch
         yield input_data[excerpt], target_data[excerpt]
 
+temp = data_generator(data, target_encoded, 10)
+
 
 
 
