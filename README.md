@@ -6,7 +6,7 @@ Welcome to our TensorFlow homework repository! This repository contains our grou
 
 To get started, make sure you have TensorFlow and any other required dependencies installed on your local machine. You can follow the installation instructions on the official TensorFlow website: [TensorFlow Installation](https://www.tensorflow.org/install).
 
-##Group-Members
+## Group-Members
 
 * Irani, Fariburz
 * Kremer, Hendrik
